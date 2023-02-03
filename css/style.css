@@ -763,7 +763,7 @@ li.slick-active button {
     overflow: hidden;
     border-radius: 20px;
     box-shadow: 2px 5px 10px -2px #777 ;
-    margin-right: 20px;
+    margin: 15px;
 }
 .blog_card img{
     width: 100%;
